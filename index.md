@@ -1,8 +1,7 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emiliano Travieso
 ---
-# Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
